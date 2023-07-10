@@ -2,7 +2,7 @@
 
 # docs.hackerone.com
 
-This repo contains the source code and documentation powering [docs.hackerone.com](https://docs.hackerone.com/).
+This repo contains the source code and documentation powering [docs.hackerone.com](httpt://docs.hackerone.com/).
 
 ## Getting started
 
